@@ -7,3 +7,5 @@ My hobby is programming
 I develop backend and frontend by myself.  
 # Languages
 Go, Pythonm, JavaScript, TypeScript, HTML, CSS, PHP(little)
+# Mainly use frameworks
+Echo, React, Tailwind CSS
