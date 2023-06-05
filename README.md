@@ -1,5 +1,5 @@
 # Hi! I'm fumikun
-主にWeb系のネットワーク技術に興味がある高専生です。  
+主にWeb系のネットワーク技術に興味がある学生です。  
 趣味はプログラミング  
 バックエンドとフロントエンドを一人で開発しています。  
 I am a technical college student mainly interested in web-based network technology.  
