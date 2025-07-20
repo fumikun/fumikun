@@ -22,6 +22,7 @@ jobs:
           base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
           config_twemoji: yes
+          repositories_skipped: report
           use_prebuilt_image: yes
 
           plugin_languages: yes
@@ -49,7 +50,8 @@ jobs:
           user: sapphi-red
           base: ""
           config_timezone: Asia/Tokyo
-          config_twemoji: yes  
+          config_twemoji: yes
+          repositories_skipped: report
           use_prebuilt_image: yes
 
           plugin_habits: yes
