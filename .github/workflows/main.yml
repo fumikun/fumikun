@@ -37,6 +37,12 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 2%
 
+          plugin_lines: yes
+
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
   
 
       - name: Metrics 2
@@ -47,7 +53,7 @@ jobs:
 
           # Options
           filename: metrics2.svg
-          user: sapphi-red
+          user: fumikun
           base: ""
           config_timezone: Asia/Tokyo
           config_twemoji: yes
@@ -66,5 +72,4 @@ jobs:
           plugin_achievements_threshold: C
           plugin_achievements_ignored: deployer, gister, automator
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+
