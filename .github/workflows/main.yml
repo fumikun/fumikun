@@ -21,7 +21,7 @@ jobs:
           base: header, activity, repositories, metadata
           config_timezone: Asia/Tokyo
           config_twemoji: yes
-          repositories_skipped: report
+          repositories_skipped: report,db-web
           use_prebuilt_image: yes
 
           plugin_languages: yes
