@@ -3,8 +3,12 @@
 I'm web developer.
 
 ### Internship
-@pixiv 2026/3 ~ 2026/4  
-@hatena 2026/8
+#### [pixiv Inc. （ピクシブ株式会社）](https://www.pixiv.co.jp/)
+Frontend Engineer - フロントエンドエンジニア  
+2026/3 ~ 2026/4
+#### [Hatena Co., Ltd. （株式会社はてな）](https://hatena.co.jp/)
+Service Platform Engineer - サービスプラットフォームエンジニア  
+2026/8
 
 <div>
   <img src="https://github.com/fumikun/fumikun/blob/main/metrics.svg" width="48%" />
